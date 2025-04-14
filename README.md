@@ -1,9 +1,9 @@
 <h1 align="center">🌦️ Weather App</h1>
 
 <p align="center">
-  A simple, responsive weather app built using <strong>HTML</strong>, <strong>Tailwind CSS</strong>, and <strong>JavaScript</strong>, which fetches real-time weather data using the <a href="https:" target="_blank">OpenWeatherMap API</a>.
+  A simple, responsive weather app built using <strong>HTML</strong>, <strong>Tailwind CSS</strong>, and <strong>JavaScript</strong>, which fetches real-time weather data using the <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap API</a>.
 </p>
-<p> Demo:- <a href="https://api-handling-zeta.vercel.app/"></a></p>
+<p> Demo:- <a href="https://api-handling-zeta.vercel.app/">🌦️ Weather App</a></p>
 <hr />
 
 <h2>🚀 Features</h2>
@@ -15,8 +15,7 @@
   <li>💡 Built with Tailwind CSS via CDN</li>
 </ul>
 
-<h2>📸 Preview</h2>
-<p>Add a screenshot here if you like (optional)</p>
+
 
 <h2>🧰 Tech Stack</h2>
 <ul>
